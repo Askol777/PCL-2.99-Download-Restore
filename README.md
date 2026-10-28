@@ -2,7 +2,7 @@
 
 本项目整理了两个针对 **Plain Craft Launcher（PCL）2.99.0.0** 特定构建的本地补丁，用于尝试恢复 Minecraft 下载与整合包下载、安装功能。
 
-**本项目是独立制作的第三方修改工具，与 PCL 官方无隶属或授权关系。** PCL 由龙腾猫跃开发，感谢原作者及其贡献者；[PCL 官方主页](https://meloong.com/PCL)、[官方源代码仓库](https://github.com/Meloong-Git/PCL)以及[支持作者](https://ifdian.net/p/0164034c016c11ebafcb52540025c377)。
+**本项目是独立制作的第三方修改工具，与 PCL 官方无隶属或授权关系。** PCL 由龙腾猫跃开发，感谢原作者及其贡献者；[PCL 官方下载入口](https://meloong.com/pcl)、[官方源代码仓库](https://github.com/Meloong-Git/PCL)以及[作者的赞助入口](https://meloong.com/afd/a/LTCat)。
 
 ## 选择补丁
 
@@ -48,6 +48,8 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -STA -File ".\Patch.ps1" -Mode
 ## 原文件来源与适用范围
 
 本项目针对提交者此前提供的两个原始 EXE 制作：据提交者说明，正式版从 PCL 作者主页取得，快照版为其赞助使用的构建。上方链接是官方入口，但**未确认官方目前是否仍提供这两个历史构建**；文件是否适用以完整 SHA-256 为准。项目不代为提供快照版获取资格。
+
+上述下载与赞助入口分别来自 [PCL 官方 README](https://github.com/Meloong-Git/PCL/blob/main/README.md) 和 [官方赞助配置](https://github.com/Meloong-Git/PCL/blob/main/.github/FUNDING.yml)。链接及其跳转可能随时间变化，请以官方仓库当前公布的地址为准。文件哈希用于确认补丁是否适配，不能单凭哈希认定文件没有恶意代码。
 
 补丁通过修改用户选择的 EXE 及附加数据生效，可能使原有数字签名失效，也可能触发安全软件警告。不要为此盲目关闭安全防护。使用者应自行确认软件使用权限、适用条款和本地法律。
 

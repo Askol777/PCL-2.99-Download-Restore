@@ -2,9 +2,11 @@
 
 Plain Craft Launcher（PCL）由龙腾猫跃开发，相关权利由 PCL 的权利人及其他相应权利人保留。
 
-- 官网：<https://meloong.com/PCL>
+- 官网与下载：<https://meloong.com/pcl>
 - 官方源码与许可证：<https://github.com/Meloong-Git/PCL>、<https://github.com/Meloong-Git/PCL/blob/main/LICENCE>
-- 作者支持入口：<https://ifdian.net/p/0164034c016c11ebafcb52540025c377>
+- 作者赞助入口：<https://meloong.com/afd/a/LTCat>
+
+下载入口和赞助入口分别以 [PCL 官方 README](https://github.com/Meloong-Git/PCL/blob/main/README.md) 与 [官方赞助配置](https://github.com/Meloong-Git/PCL/blob/main/.github/FUNDING.yml) 为来源；如上游更新，请以官方仓库当前公布的地址为准。
 
 [UPSTREAM-LICENCE](UPSTREAM-LICENCE) 是整理本项目时从上游复制的原文（Git blob SHA-1：`ae3dd050edaf0c4f2bf50bf7b4d8d508319394f1`）；请同时查看上游链接了解当前版本。其所链接的《PCL 分发有限许可》完整正文尚未核实。
 
