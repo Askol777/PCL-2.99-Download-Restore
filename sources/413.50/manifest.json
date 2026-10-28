@@ -1,0 +1,81 @@
+{
+  "version_label": "正式版 2.99.0.0（413.50）",
+  "input_sha256": "6b6e1260cb5a1d6a303855f1c60cab3d0bc1aebba7e40a964180188b271e7386",
+  "output_sha256": "0ea0446498c2aea4aaf45ecc77ff56ee64eba23a0b275abfa8e9330453893025",
+  "payload_sha256": "ec3cdf3465dae888c17007e7c8eec0e8e0d2a1a43c6871f718106dd60b35fd17",
+  "input_length": 5980160,
+  "output_length": 5982208,
+  "operations": [
+    {
+      "offset": 464,
+      "expected": "0c00",
+      "replacement": "000a"
+    },
+    {
+      "offset": 473,
+      "expected": "02",
+      "replacement": "0a"
+    },
+    {
+      "offset": 495,
+      "expected": "42",
+      "replacement": "40"
+    },
+    {
+      "offset": 180442,
+      "expected": "72334701707efb09",
+      "replacement": "7e0f040004000000"
+    },
+    {
+      "offset": 180451,
+      "expected": "042c077efb09",
+      "replacement": "000000000000"
+    },
+    {
+      "offset": 180458,
+      "expected": "042b167ef909",
+      "replacement": "000000000000"
+    },
+    {
+      "offset": 180465,
+      "expected": "04fe066714",
+      "replacement": "0000000000"
+    },
+    {
+      "offset": 180471,
+      "expected": "06738d05",
+      "replacement": "00000000"
+    },
+    {
+      "offset": 180476,
+      "expected": "0a2580fb09",
+      "replacement": "0000000000"
+    },
+    {
+      "offset": 180482,
+      "expected": "041418738e05",
+      "replacement": "000000000000"
+    },
+    {
+      "offset": 180489,
+      "expected": "0a",
+      "replacement": "00"
+    },
+    {
+      "offset": 720198,
+      "expected": "f02001",
+      "replacement": "00625b"
+    },
+    {
+      "offset": 720216,
+      "expected": "102101",
+      "replacement": "4c625b"
+    },
+    {
+      "offset": 741438,
+      "expected": "906d03",
+      "replacement": "24665b"
+    }
+  ],
+  "notice": "Exact-hash local patch for one build; nonofficial; no executable included."
+}
